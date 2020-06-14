@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "上海第二工业大学"
   organization_url = ""
-  title = "《新媒体时代整合营销传播的创新应用研究》"
+  title = "《新媒体时代整合营销传播理论的创新应用研究》"
   url = ""
   certificate_url = ""
   date_start = "2018-11-01"
