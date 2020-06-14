@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "战士"
   company = "中央军委“火力·2015”跨区基地化演习"
-  company_url = ""
+  company_url = "http://www.sohu.com/a/22789343_119691"
   location = "中国·甘肃"
   date_start = "2015-07-01"
   date_end = "2015-08-01"
