@@ -7,31 +7,31 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
-subtitle = ""
+##title = "Recent Posts"
+##subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+#[content]
+#  # Page type to display. E.g. post, talk, or publication.
+#  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+#  count = 5
   
   # Choose how many pages you would like to offset by
-  offset = 0
+#  offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+#  order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+##  [content.filters]
+##    tag = ""
+##    category = ""
+##    publication_type = ""
+##    author = ""
+##    exclude_featured = false
   
-[design]
+##[design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
@@ -39,7 +39,7 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
-[design.background]
+##[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -59,10 +59,10 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[advanced]
+##[advanced]
  # Custom CSS. 
- css_style = ""
+## css_style = ""
  
  # CSS class.
- css_class = ""
+## css_class = ""
 +++
