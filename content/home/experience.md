@@ -30,9 +30,9 @@ date_format = "Jan 2006"
   title = "参赛者"
   company = "2017年度上海高校公共关系学专业专项奖学金比赛"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "中国·上海"
+  date_start = "2018-04-11"
+  date_end = "2016-06-22"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
