@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "network-wired"
   icon_pack = "fas"
-  name = "数据挖掘"
+  name = "数据挖掘及可视化"
   description = "50%"
   
 [[feature]]
@@ -26,12 +26,6 @@ subtitle = ""
   name = "统计分析"
   description = "90%"  
   
-[[feature]]
-  icon = "eye"
-  icon_pack = "fas"
-  name = "数据可视化"
-  description = "70%"
-
 [[feature]]
   icon = "edit"
   icon_pack = "fas"
