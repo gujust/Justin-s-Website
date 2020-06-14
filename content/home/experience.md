@@ -20,21 +20,19 @@ date_format = "Jan 2006"
 [[experience]]
   title = "战士"
   company = "中央军委“火力·2015”跨区基地化演习"
-  company_url = "http://www.sohu.com/a/22789343_119691"
+  company_url = ""
   location = "中国·甘肃"
   date_start = "2015-07-01"
   date_end = "2015-08-01"
   description = """所在旅队代表南京军区参加中央军委级别演习，因两年中获得过优秀士兵和旅优秀共青团员，加上业务能力优秀，经过上级逐层筛选后入选演习成员，担任连队通信员、战士。演习期间，时任中央军委副主席亲自到场观摩，所在部队在演习中获得全军第一名的好成绩。个人因在该演习中负伤后坚持完成任务，被旅队评为旅嘉奖，成为全营唯一一位义务兵（两年兵）获得者。"""
 
 [[experience]]
-  title = "参赛者"
-  company = "2017年度上海高校公共关系学专业专项奖学金比赛"
-  company_url = "https://mp.weixin.qq.com/s/ypaLfa9UmNriYIhpaNdvfw"
-  location = "中国·上海"
-  date_start = "2018-4-1"
-  date_end = "2018-6-18"
-  description = """该奖学金由上海市教委、共青团上海市委以及上海市公共关系协会共同设立。参与此奖学金评比的学校包括复旦大学、华东师范大学、东华大学、上海外国语大学、上海师范大学和上海第二工业大学在内的若干所大学。特等奖名额仅设有五名。
-  
-2017年度奖学金比赛采取了现场演讲的形式。全国政协常委、上海市副市长、上海市人大副主任等领导出席了评比现场，并且现场提问，现场作答，现场评分，最终以优异的成绩获得特等奖学金（10000元）。"""
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
