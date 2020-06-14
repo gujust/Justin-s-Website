@@ -29,10 +29,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "参赛者"
   company = "2017年度上海高校公共关系学专业专项奖学金比赛"
-  company_url = ""
+  company_url = "https://mp.weixin.qq.com/s/ypaLfa9UmNriYIhpaNdvfw"
   location = "中国·上海"
   date_start = "2018-04-11"
-  date_end = "2016-06-22"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2018-06-22"
+  description = """该奖学金由上海市教委、共青团上海市委以及上海市公共关系协会共同设立。参与此奖学金评比的学校包括复旦大学、华东师范大学、东华大学、上海外国语大学、上海师范大学和上海第二工业大学在内的若干所大学。特等奖名额仅设有五名。
+
+2018奖学金比赛采取了现场演讲的形式。全国政协常委、上海市副市长、上海市人大副主任等领导出席了2018评比现场，并且现场提问，现场作答，现场评分，最终以优异的成绩获得特等奖学金（10000元）。"""
 
 +++
