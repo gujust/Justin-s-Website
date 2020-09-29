@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "科研项目"
+title = "项目"
 subtitle = ""
 
 [content]
@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  name = "全媒体融合传播实训教学平台"
+  #   name = "All"
   #   tag = "*"
   
   # [[content.filter_button]]
