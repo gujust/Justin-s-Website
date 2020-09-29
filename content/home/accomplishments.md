@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-06-07"
-  date_end = "2019-09-20"
+  date_end = "2020-09-20"
   description = "定量研究（已发表）"
   
 [[item]]
