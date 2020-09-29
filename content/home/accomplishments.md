@@ -31,6 +31,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "宁波大学"
   organization_url = ""
+  title = "《卫健类政务短视频的时间影响因素实证分析》"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-07"
+  date_end = "2019-09-20"
+  description = "定量研究（已发表）"
+  
+[[item]]
+  organization = "宁波大学"
+  organization_url = ""
   title = "《公安类政务短视频影响力的实证研究——以“警界君“抖音号为例》"
   url = ""
   certificate_url = ""
