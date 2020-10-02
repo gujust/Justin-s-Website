@@ -30,8 +30,25 @@ subtitle = ""
   icon = "edit"
   icon_pack = "fas"
   name = "文字撰写"
+  description = "90%"
+  
+ [[feature]]
+  icon = "conversation"
+  icon_pack = "ai"
+  name = "交流沟通"
   description = "100%"
   
+ [[feature]]
+  icon = "ideas-repec"
+  icon_pack = "ai"
+  name = "活动创意"
+  description = "80%"
+  
+ [[feature]]
+  icon = "inpn"
+  icon_pack = "ai"
+  name = "团队合作"
+  description = "100%" 
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
