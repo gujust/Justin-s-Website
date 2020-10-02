@@ -57,5 +57,45 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-01-21"
   description = "定量研究（未发表）"
+  
+ [[item]]
+  organization = "宁波大学校级立项"
+  organization_url = ""
+  title = "全媒体融合传播实训教学平台（广告中央厨房教学系统研发）"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = "2020-12-05"
+  description = "经费49.8万，个人排序5/15"
+
+[[item]]
+  organization = "宁波大学校级立项"
+  organization_url = ""
+  title = "全媒体融合传播实训教学平台（新媒体广告虚拟仿真投放实验二期开发）"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = "2020-11-20"
+  description = "经费10万，个人排序5/10"
+  
+[[item]]
+  organization = "宁波大学校级立项"
+  organization_url = ""
+  title = "明大建筑垃圾资源化利用系统三维建模技术服务"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = "2021-04-01"
+  description = "经费50万，个人排序5/5"
+  
+[[item]]
+  organization = "宁波大学校级立项"
+  organization_url = ""
+  title = "“对话广告人”系列专题讲座第三季"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-11-01"
+  date_end = "2020-01-01"
+  description = "经费2万，个人排序2/9"
 
 +++
