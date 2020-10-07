@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "参赛者（辩论队队长）"
   company = "2018年度上海高校公共关系学专业专项奖学金比赛"
-  company_url = "https://mp.weixin.qq.com/s/ypaLfa9UmNriYIhpaNdvfw"
+  company_url = "http://www.sspu.edu.cn/hjxw/62017.htm"
   location = "中国·上海"
   date_start = "2019-04-11"
   date_end = "2019-05-31"
