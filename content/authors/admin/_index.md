@@ -1,7 +1,4 @@
 ---
-header:
-  image: "es.jpg"
-  caption: "Image credit: [**Academic**](https://www.sspu.edu.cn)"
 # Display name
 title: 顾天钦
 
