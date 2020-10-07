@@ -18,23 +18,22 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究兴趣主要聚焦在整合营销传播、新媒体与消费主义以及媒介文化。
+bio: 我的研究兴趣主要聚焦在整合营销传播和新媒体与消费主义。
 
 Interests:
-- 整合营销传播
-- 新媒体与消费主义
-- 媒介文化
+- Integrated marketing communication
+- New media and consumerism
 
 Education:
   courses:
-  - course: 新闻与传播专业硕士在读
-    institution: 宁波大学
+  - course: Master of Journalism and Communication
+    institution: Ningbo University
     year: 2019-2022
-  - course: 管理学学士（公共关系学本科）
-    institution: 上海第二工业大学
+  - course: Bachelor of Science in Management
+    institution: Shanghai Polytechnic University
     year: 2015-2019
-  - course: 战士
-    institution: 中国人民解放军73151部队
+  - course: Soldier
+    institution: The Eastern Theater thirty-first group army of Chinese Army
     year: 2013-2015
 
 # Social/Academic Networking
