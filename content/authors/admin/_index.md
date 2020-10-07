@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 我的研究兴趣主要聚焦在整合营销传播、新媒体与消费主义以及媒介文化。
 
-interests:
+研究兴趣:
 - 整合营销传播
 - 新媒体与消费主义
 - 媒介文化
 
-education:
+个人经历:
   courses:
   - course: 新闻与传播专业硕士在读
     institution: 宁波大学
