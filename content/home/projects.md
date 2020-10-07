@@ -30,7 +30,7 @@ subtitle = ""
      tag = "contest"
   
   [[content.filter_button]]
-     name = "Other"
+     name = "其他"
      tag = "Demo"
 
 [design]
