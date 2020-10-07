@@ -25,7 +25,7 @@ Interests:
 - 新媒体与消费主义
 - 媒介文化
 
-Experience:
+Education:
   courses:
   - course: 新闻与传播专业硕士在读
     institution: 宁波大学
