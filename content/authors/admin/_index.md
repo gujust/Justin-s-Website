@@ -32,9 +32,6 @@ Education:
   - course: Bachelor of Science in Management
     institution: Shanghai Polytechnic University
     year: 2015-2019
-  - course: Soldier
-    institution: The Eastern Theater thirty-first group army of Chinese Army
-    year: 2013-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
